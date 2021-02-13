@@ -26,12 +26,11 @@
 - HTML
 - CSS
 - JavaScript
-- SQL
 - Nunjucks
 - NodeJS
+- Nodemailer
 - Express
 - PostgresSQL
-- Nodemailer
 - Faker
 
 ## 🚀 Para executar o projeto
@@ -62,9 +61,9 @@ $ .\pg_ctl.exe -D "C:\Program Files\PostgreSQL\12\data" stop
 
 Depois de ligá-lo, abra o Postbird e crei um banco de dados com o nome `foodfy`.
 
-Logo após, no canto superior esquerdo, acesse `File > Import .sql file`, e importe o arquivo [foodfydb.sql]() deste repositório.
+Logo após, no canto superior esquerdo, acesse `File > Import .sql file`, e importe o arquivo [foodfydb.sql](https://github.com/pedrofbaltar/foodfy-project/blob/main/foodfydb.sql) deste repositório.
 
-Preencha suas informações de usuário e senha do prostgres no arquivo [db.js]().
+Preencha suas informações de usuário e senha do prostgres no arquivo [db.js](https://github.com/pedrofbaltar/foodfy-project/blob/main/src/config/db.js).
 
 Verifique se todas as tabelas foram importadas corretamente.
 
