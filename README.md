@@ -87,7 +87,7 @@ Acesse a área `Inboxes`, então crie uma nova inbox com o nome `foodfy`.
 
 Feito isso, entre na aba `SMTP Settings` e mude de `Intergrations` para `Nodemailer`.
 
-Copie o código gerado, e cole no arquivo.
+Copie o código gerado, e cole no arquivo [mailer.js](https://github.com/pedrofbaltar/foodfy-project/blob/main/src/lib/mailer.js).
 
 ---
 
