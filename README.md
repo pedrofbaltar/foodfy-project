@@ -92,6 +92,7 @@ Copie o código gerado, e cole no arquivo.
 ---
 
 **Administrador padrão:** admin@admin.com
+
 **Senha:** admin
 
 ## 📜 Lincença
