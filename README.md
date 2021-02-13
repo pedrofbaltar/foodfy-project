@@ -96,7 +96,7 @@ Copie o código gerado, e cole no arquivo.
 
 ## 📜 Lincença
 
-Esse projeto está sob a licença do MIT. Veja o arquivo [LICENSE]().
+Esse projeto está sob a licença do MIT. Veja o arquivo [LICENSE](https://github.com/pedrofbaltar/foodfy-project/blob/main/LICENSE).
 
 <hr>
 
