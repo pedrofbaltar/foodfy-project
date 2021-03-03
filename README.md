@@ -95,6 +95,18 @@ Copie o código gerado, e cole no arquivo [mailer.js](https://github.com/pedrofb
 
 **Senha:** admin
 
+---
+
+**5. Exectuando a aplicação**
+
+Após seguir todos os passos. o projeto pode ser inciado.
+
+```
+ $ npm start
+```
+
+Aguarde alguns segundos e o projeto irá abrir automáticamente no seu navegador.
+
 ## 📜 Lincença
 
 Esse projeto está sob a licença do MIT. Veja o arquivo [LICENSE](https://github.com/pedrofbaltar/foodfy-project/blob/main/LICENSE).
